@@ -1,5 +1,7 @@
 # Line-Following-Sensor
-Created a Line following robot that uses three optocoupler sensors to follow a black line
+Created a Line following robot that uses three optocoupler sensors to follow a black line.
+
+Coded in Atmel Studio in C.
 
 The robot is programmed to run along a black line on the floor autonomously.
 The robot’s motor is controlled by the Dual Full-Bridge Driver (U2) which receives
